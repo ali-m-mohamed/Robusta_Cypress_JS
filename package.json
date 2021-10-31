@@ -1,0 +1,45 @@
+{
+  "name": "robusta-task",
+  "version": "1.0.22",
+  "description": "Robusta automation task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/padmarajnidagundi/Cypress-POM-Ready-To-Use"
+  },
+  "keywords": [
+    "cypress",
+    "cypress.io",
+    "chai",
+    "POM",
+    "framework",
+    "browser",
+    "testing",
+    "end-to-end",
+    "integration",
+    "test",
+    "architecture",
+    "page-object-model",
+    "UAT",
+    "E2E",
+    "angular",
+    "AngularJS",
+    "nextjs",
+    "react",
+    "reactjs",
+    "javascript",
+    "cypress-testing-library",
+    "cypress-npm",
+    "automation"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.6.0",
+    "cypress-mochawesome-reporter": "^2.3.0",
+    "cypress-xpath": "^1.6.2",
+    "mochawesome": "^6.3.1"
+  }
+}
